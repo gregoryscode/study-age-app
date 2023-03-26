@@ -8,11 +8,6 @@ An android app created to improve learning in mobile development in Java program
 [![forthebadge](https://forthebadge.com/images/badges/powered-by-coffee.svg)](http://forthebadge.com)
 [![forthebadge](http://forthebadge.com/images/badges/built-with-love.svg)](http://forthebadge.com)
 
-
-## Prerequisites
-
-- Android Studio
-
 ## Support
 gregory@brainov.com
 
