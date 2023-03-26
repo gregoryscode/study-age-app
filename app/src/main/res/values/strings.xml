@@ -1,0 +1,23 @@
+<resources>
+    <string name="app_name">AgeApp</string>
+    <string name="action_settings">Sobre</string>
+    <string name="title_activity_user">Usuários</string>
+    <string name="title_activity_register">Cadastro</string>
+    <string name="app_ok">OK</string>
+    <string name="app_user_name">Nome:</string>
+    <string name="app_user_age">Faixa etária:</string>
+    <string name="app_user_list_header">Usuários cadastrados</string>
+    <string name="app_user_create_header">Cadastre um novo usuário</string>
+    <string name="app_user_none">Nenhum usuário cadastrado.</string>
+    <string name="app_age_one">Menor de 18</string>
+    <string name="app_age_two">Entre 18 e 25 anos</string>
+    <string name="app_age_three">Entre 26 e 35 anos</string>
+    <string name="app_age_four">Entre 36 e 50 anos</string>
+    <string name="app_age_five">Entre 51 e 60 anos</string>
+    <string name="app_age_six">Acima de 60 anos</string>
+    <string name="app_user_name_empty">Por favor, informe o nome do usuário.</string>
+    <string name="app_user_create_success">Usuário cadastrado com sucesso!</string>
+    <string name="app_user_create_error">Não foi possível cadastrar o usuário. Por favor, tente novamente.</string>
+    <string name="app_user_not_loaded">Não foi possível carregar os usuários. Por favor, tente novamente.</string>
+    <string name="app_about">© Gregory Perozzo. Todos direitos reservados.</string>
+</resources>
