@@ -1,4 +1,4 @@
-# study-ageapp
+# study-age-app
 
 An android app created to improve learning in mobile development in Java programmimg language.
 
